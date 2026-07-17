@@ -14,10 +14,7 @@ App to reproduce issue on instabug where camera button is hidden behind a native
 
 ### Video recording for reference
 
-<video autoplay loop muted playsinline width="600">
-    <source src="Android_recording.mp4" type="video/mp4">
-    Steps to reproduce
-</video>
+[▶ Watch the screen recording](Android_recording.mp4)
 
 #### Resources
 
